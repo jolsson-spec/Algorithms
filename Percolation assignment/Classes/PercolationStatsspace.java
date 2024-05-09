@@ -1,7 +1,7 @@
 /*import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
-
+Old version with numerous prints to stdout for the sake of debugging
 public class PercolationStatswithSpaces {
     //boolean isPercolated = false;
     private static double[] statsites;
