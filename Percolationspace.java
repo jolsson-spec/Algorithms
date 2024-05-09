@@ -1,5 +1,5 @@
 /*import edu.princeton.cs.algs4.WeightedQuickUnionUF;
-
+Old version
 public class PercolationwithSpaces {
     // blocked = 1, free = 0
     // Initialization of variables
